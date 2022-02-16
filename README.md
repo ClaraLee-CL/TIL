@@ -5,7 +5,7 @@ Today I Learned(TIL)
 🎯 to be a Front-end-developer.
 
 📕 Html & Css </br>
-📙 JavaScript
+📙 JavaScript </br>
 📗 Bootstrap
 
 ```ts

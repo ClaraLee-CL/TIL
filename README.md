@@ -38,11 +38,9 @@ Today I Learned(TIL)
     • DOM Manipulation
     • Events
     • Fetch API(Async)
-    
- 
+```
 ▪ Bootstrap
 
 > [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/) <br>
 > Framework for building responsive, mobile-first sites, with jsDelivr and a template starter page.
-```
 

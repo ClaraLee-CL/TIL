@@ -6,9 +6,13 @@
 
 'use strict';
 
-// 2. Variable
+// 2. Variable, rw(read/write)
 // let (added in ES6)
+// Block scope {} - cannot be used until it has been declared.
+// Global scope - can be accessed anywhere and has always memories. (recomend to use the minimum : class, function, if, for loop etc..)
+
 let globalName = 'global name'
+
 {
 let name = 'clara';
 console.log(name);
@@ -25,7 +29,13 @@ console.log(globalName);
 // var hoisting (move declaration from bottom to top)
 // has no block scope
 
-// 3. Constants
+// 3. Constant, r(read)
+// use const whenever possible.
+// only use let if variable needs to change.
+
+// ** Note! **
+// Immutable data types: primitive types, frozen objects (i.e. object.freeze())
+// Mutable data types: all objects by default are mutable in JS
 // favor immutable data type always for a few reasons:
 // - security
 // - thready safty
@@ -52,7 +62,7 @@ console.log(negativeInfinity);
 console.log(nAn);
 
 // bigInt
-const bigInt = 123456789012345678901234567890n; // over -2^53 ~2^53
+const bigInt = 123456789012345678901234567890n; // over -2^53 ~2^53 
 
 console.log(`value:${bigInt}, type:${typeof bigInt}`)
 
@@ -68,11 +78,11 @@ const helloBob = `hi ${brendan}!`; // template literals (string)
 console.log(`value:${helloBob}, type:${typeof helloBob}`);
 
 // boolean
-// false: 0, null, undefined, NaN, ''
+// false: 0, null, undefined, NaN, ''(empty)
 // true: any other value
 
 const canRead = true;
-const test = 3 < 1;    // false
+const test = 3 < 1;  // false
 
 console.log(`value:${canRead}, type:${typeof canRead}`);
 console.log(`value:${test}, type:${typeof test}`);
@@ -112,7 +122,6 @@ console.log(clara.age);
 // 5. Dynamic typing: dynamically typed language
 let text = 'hello';
 console.log(text.charAt(0));   // h 
-
 console.log(`value:${text}, type:${typeof text}`);
 
 text = 1;
@@ -124,4 +133,4 @@ console.log(`value:${text}, type:${typeof text}`);
 text = '8' / '2';
 console.log(`value:${text}, type:${typeof text}`);
 
-console.log(text.charAt(0));   // Error - why? runing time is diffents
+console.log(text.charAt(0));   // Error - why? run time is diffents.

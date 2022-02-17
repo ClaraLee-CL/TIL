@@ -28,8 +28,6 @@
 **✨ User can see contents which is based on HTML before downloding ' .js'** <br>
 **💥 But if the website is made almost with Javascript, the User takes a many time to see the normal website.**
 
-#
-
 ## 🏷 Async
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Its function is a function declared with the async keyword
@@ -44,8 +42,6 @@ _`↪︎Fetching js➟Executing js⤴︎`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 **✨ An async function is a function declared with the async keyword** <br>
 **💥 Before the document has been parsed, the script is not executed by executing js**
 
-#
-
 ## 🏷 defer
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is a Boolean value, used to indicate that script is executed after the document has been parsed.
@@ -57,4 +53,4 @@ _`↪︎Fetching js➟Executing js⤴︎`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 _Parsing HTML ・・・・・・・・⇢ Executing js_<br>
 _`↪︎ Fetching js⤴︎`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`↑Page is ready`_
 
-## ⭐️ defer is the best option and safe to execute scripts ⭐️
+### ⭐️ defer is the best option and safe to execute scripts ⭐️

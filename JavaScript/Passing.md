@@ -23,7 +23,7 @@
 
 ### **💡important**
 
-> _Parsing HTML ⇢ Fetxhing js ⇢ executing js_ <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`↑Page is ready`
+> _Parsing HTML ⇢ Fetching js ⇢ executing js_ <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`↑Page is ready`
 
 **✨ User can see contents which is based on HTML before downloding ' .js'** <br>
 **💥 But if the website is made almost with Javascript, the User takes a many time to see the normal website.**

@@ -1,49 +1,54 @@
 # 📝 TIL
 
-Today I Learned(TIL)
+## Today I Learned(TIL)
 
-🎯 to be a Front-end-developer.
+### 🎯 to be a Front-end-developer.
 
-📕 Html & Css </br>
-📙 JavaScript \
-&nbsp;&nbsp;&nbsp;&nbsp;[🛎 JavaScript reference (click here)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/)</br>
-📗 Bootstrap \
-&nbsp;&nbsp;&nbsp;&nbsp;[🛎 Bootstrap (click here)](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+<br>
 
-```
-▪ Html
-  ⁃ HTML Tags
-  ⁃ Page Structure
-  ⁃ Semantic Tags
-  ⁃ SEO
-  ⁃ Accessibility
+## ▪ Html
 
-▪ Css
-  ⁃ Styling
-  ⁃ Layouts
-  ⁃ Responsive Design
-  ⁃ Animation
+⁃ HTML Tags \
+⁃ Page Structure \
+⁃ [Semantic Tags 🌱](HTML/Semantic_Tags.md)\
+⁃ SEO \
+⁃ Accessibility
+<br><br>
 
-▪ JavaScript
-  ⁃ ES6 + Syntax
-    • Basic
-      ・ let, const
-      ・ if, for, switch, while
-      ・ function
-      ・ class, object
+## ▪ Css
 
-    • Advanced
-      ・ Prototype, Hoisting
-      ・ Scope, Closure
+⁃ Styling \
+⁃ Layouts \
+⁃ Responsive Design \
+⁃ Animation
+<br><br>
 
-  ⁃ Browser APIs
-    • DOM Manipulation
-    • Events
-    • Fetch API(Async)
-```
+## ▪ JavaScript
 
-```
-▪ Bootstrap
+[🛎 JavaScript reference (click here)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/)</br>
 
-  Framework for building responsive, mobile-first sites, with jsDelivr and a template starter page.
-```
+### ⁃ ES6 + Syntax
+
+- Basic \
+  ・ [let, const 🌿](/JavaScript/2._variable.js) \
+  ・ [if, for, switch, while 🌿](/JavaScript/3._operator.js) \
+  ・ [function 🌿](/JavaScript/4._function.js) \
+  ・ [class 🌿](/JavaScript/5._class.js)\
+  ・ [object 🌿](/JavaScript/6._object.js)
+
+- Advanced \
+  ・ Prototype, Hoisting \
+  ・ Scope, Closure
+
+### - Browser APIs
+
+- DOM Manipulation
+- Events
+- Fetch API(Async)
+  <br><br>
+
+## Bootstrap
+
+[🛎 Bootstrap site(click here)](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+
+> Framework for building responsive, mobile-first sites, with jsDelivr and a template starter page.

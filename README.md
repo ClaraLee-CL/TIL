@@ -1,6 +1,6 @@
 # 📝 TIL
 
-## Today I Learned(TIL)
+`Today I Learned(TIL)`
 
 ### 🎯 to be a Front-end-developer.
 

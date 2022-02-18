@@ -5,8 +5,10 @@ Today I Learned(TIL)
 🎯 to be a Front-end-developer.
 
 📕 Html & Css </br>
-📙 JavaScript </br>
-📗 Bootstrap
+📙 JavaScript \
+&nbsp;&nbsp;&nbsp;&nbsp;[🛎 JavaScript reference (click here)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/)</br>
+📗 Bootstrap \
+&nbsp;&nbsp;&nbsp;&nbsp;[🛎 Bootstrap (click here)](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 
 ```
 ▪ Html
@@ -28,7 +30,7 @@ Today I Learned(TIL)
       ・ let, const
       ・ if, for, switch, while
       ・ function
-      ・ object
+      ・ class, object
 
     • Advanced
       ・ Prototype, Hoisting
@@ -40,7 +42,8 @@ Today I Learned(TIL)
     • Fetch API(Async)
 ```
 
+```
 ▪ Bootstrap
 
-> [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/) <br>
-> Framework for building responsive, mobile-first sites, with jsDelivr and a template starter page.
+  Framework for building responsive, mobile-first sites, with jsDelivr and a template starter page.
+```

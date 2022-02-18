@@ -173,16 +173,23 @@ const simpleMultiply = (a, b) => {
 // #1
 function calculate(command, a, b) {
   if (command === add) {
-    return `sum: ${a+b}`;
+    // return `sum: ${a+b}`;
+    console.log(a+b)
   } else if (command === substract ) {
-    return `substract: ${a-b}`;
+    // return `substract: ${a-b}`;
+    console.log(a-b)
   } else if (command === divide) {
-    return `divide: ${a/b}`;
+    // return `divide: ${a/b}`;
+    console.log(a/b)
   } else if (command === multiply) {
-    return `multiply: ${a*b}`;
-  } else {
-    return `remainder: ${a%b}`;
-  } 
+    // return `multiply: ${a*b}`;
+    console.log(a*b)
+  } else if (command === remainder){
+    // return `remainder: ${a%b}`;
+    console.log(a%b)
+  } else{
+    console.log('return undefinded')
+  }
 }
 
 const add = (a, b) => a + b;
@@ -191,7 +198,8 @@ const divide = (a, b) => a / b;
 const multiply = (a, b) => a * b;
 const remainder = (a, b) => a % b;
 
-console.log(calculate(remainder, 10, 5));
+// console.log(calculate(remainder, 10, 5));
+calculate(add, 1, 5);
 
 // #2 ('switch' is BETTER THEN 'if')
 function calculateNumber(command, a, b) {

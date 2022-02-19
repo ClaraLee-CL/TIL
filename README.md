@@ -30,7 +30,7 @@
 ### ⁃ ES6 + Syntax
 
 - [Basic 🌿](/JavaScript) \
-  ・ [let, const 🌿](/JavaScript/2. variable.js) \
+  ・ let, const \
   ・ if, for, switch, while \
   ・ function \
   ・ class \

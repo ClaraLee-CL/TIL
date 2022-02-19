@@ -1,6 +1,6 @@
 # 📝 TIL
 
-## Today I Learned(TIL)
+`Today I Learned(TIL)`
 
 ### 🎯 to be a Front-end-developer.
 
@@ -29,12 +29,12 @@
 
 ### ⁃ ES6 + Syntax
 
-- Basic \
-  ・ [let, const 🌿](/JavaScript/2._variable.js) \
-  ・ [if, for, switch, while 🌿](/JavaScript/3._operator.js) \
-  ・ [function 🌿](/JavaScript/4._function.js) \
-  ・ [class 🌿](/JavaScript/5._class.js)\
-  ・ [object 🌿](/JavaScript/6._object.js)
+- [Basic 🌿](/JavaScript) \
+  ・ let, const \
+  ・ if, for, switch, while \
+  ・ function \
+  ・ class \
+  ・ object
 
 - Advanced \
   ・ Prototype, Hoisting \

@@ -34,7 +34,8 @@
   ・ if, for, switch, while \
   ・ function \
   ・ class \
-  ・ object
+  ・ object \
+  ・ array
 
 - Advanced \
   ・ Prototype, Hoisting \

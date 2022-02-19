@@ -29,7 +29,7 @@
 
 ### ⁃ ES6 + Syntax
 
-- Basic \
+- [Basic](/JavaScript) \
   ・ [let, const 🌿](/JavaScript/2.variable.js) \
   ・ [if, for, switch, while 🌿](/JavaScript/3._operator.js) \
   ・ [function 🌿](/JavaScript/4._function.js) \

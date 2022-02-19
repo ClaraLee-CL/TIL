@@ -10,7 +10,7 @@
 
 ⁃ HTML Tags \
 ⁃ Page Structure \
-⁃ [Semantic Tags 🌱](HTML/Semantic_Tags.md)\
+⁃ [Semantic Tags 🌱](/HTML)\
 ⁃ SEO \
 ⁃ Accessibility
 <br><br>
@@ -29,12 +29,12 @@
 
 ### ⁃ ES6 + Syntax
 
-- [Basic](/JavaScript) \
-  ・ [let, const 🌿](/JavaScript/2.variable.js) \
-  ・ [if, for, switch, while 🌿](/JavaScript/3._operator.js) \
-  ・ [function 🌿](/JavaScript/4._function.js) \
-  ・ [class 🌿](/JavaScript/5._class.js)\
-  ・ [object 🌿](/JavaScript/6._object.js)
+- [Basic 🌿](/JavaScript) \
+  ・ let, const \
+  ・ if, for, switch, while \
+  ・ function \
+  ・ class \
+  ・ object
 
 - Advanced \
   ・ Prototype, Hoisting \

@@ -10,7 +10,7 @@
 
 ⁃ HTML Tags \
 ⁃ Page Structure \
-⁃ [Semantic Tags 🌱](HTML/Semantic_Tags.md)\
+⁃ [Semantic Tags 🌱](/HTML)\
 ⁃ SEO \
 ⁃ Accessibility
 <br><br>

@@ -38,17 +38,11 @@
    ・ array \
    ・ JSON
 
-  #### 🪝Useful Site for JSON🪝 <br>
-
-  #### ・ Diff checker: http://www.jsondiff.com/
-
-  #### ・ Beautifier/editor: https://jsonbeautifier.org/
-
-  #### ・ Parser: https://jsonparser.org/
-
-  #### ・ Validator: https://tools.learningcontainer.com/json-validator/
-
-  <br>
+  - 🪝Useful Site for JSON🪝\
+   ・ Diff checker: http://www.jsondiff.com/ \
+   ・ Beautifier/editor: https://jsonbeautifier.org/ \
+   ・ Parser: https://jsonparser.org/ \
+   ・ Validator: https://tools.learningcontainer.com/json-validator/
 
 - Advanced \
   ・ Prototype, Hoisting \

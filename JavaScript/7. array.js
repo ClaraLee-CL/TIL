@@ -93,4 +93,3 @@ fruits.push('🍎');
 console.log(fruits)
 
 console.log(fruits.lastIndexOf('🍎'));
-

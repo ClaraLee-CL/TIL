@@ -7,8 +7,11 @@
 #### 🔍 Accessibility
 
 #### 🖥 Maintainability
+<br><br>
+<img src="Images/PageStructure.png"> 
+#### *- picture by Dream coding Ellie -*
 
-<img src="images/PageStructure.png">
+
 
 > <i\> vs <em\>
 

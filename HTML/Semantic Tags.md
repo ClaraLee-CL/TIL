@@ -8,7 +8,7 @@
 
 #### 🖥 Maintainability
 
-<img src="images/Page Structure.png">
+<img src="images/PageStructure.png">
 
 > <i\> vs <em\>
 
